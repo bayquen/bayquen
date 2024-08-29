@@ -1,1 +1,1 @@
--💻 CS student proficient in Python🐍 programming and pursuing a career in artificial intelligence.
+-💻 CS student proficient in Python🐍 programming pursuing the A.I. industry.
