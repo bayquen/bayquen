@@ -1,4 +1,4 @@
-Name is pronounced as "by-ken"
+Surname is pronounced as "by-ken"
 
 I conjure up code and then poof yay functions this is epic!
 
