@@ -1,6 +1,6 @@
 Pronounced as [by-ken]
 
-###Developing my love for: the journey of software building.
+### Developing my love for: the journey of software building.
 
 Challenging. Exciting. At times, frustrating — but rewarding.
 
