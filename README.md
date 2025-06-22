@@ -1,13 +1,15 @@
-Pronounced as [by-ken]
+(Pronounced as "by-ken")
 
-### Developing my love for: the journey of software building.
+### Developing my love for: the journey of software building
 
-Challenging. Exciting. At times, frustrating — but rewarding.
+Challenging. Exciting. At times, frustrating — but it's fun and rewarding
 
-To those who have joined and supported me on this continuous journey, thank you.
+To those who have joined and supported me on this continuous journey: **thank you**
 
-To those I have yet to meet, thank you, too.
+To those I have yet to meet: thank you, too
 
-Sincerely,
+Here's to more hours of stacked compiler errors, missing semicolons, confusion, and small wins along the way.
 
-**bayquen**
+Sincerely yours,
+
+Brandon
