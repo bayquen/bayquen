@@ -1,6 +1,6 @@
 *(Pronounced as "by-ken")*
 
-### 200 sq. ft and a road to an awesome tech career!
+### Road to an awesome tech career.
 
 Fun... challenging... exciting... frustrating...
 
