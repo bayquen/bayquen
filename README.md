@@ -2,7 +2,7 @@
 
 ### 200 sq. ft and a road to an awesome tech career!
 
-Challenging... Exciting... At times, frustrating — but it's fun and rewarding.
+Fun... challenging... exciting... frustrating...
 
 To those who have joined or supported me on this continuous journey: thank you.
 
