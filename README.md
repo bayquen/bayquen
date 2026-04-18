@@ -2,7 +2,7 @@
 
 ### Road to breaking into tech (2025-Present).
 
-Fun... challenging... exciting... frustrating...
+Fun... challenging... frustrating... yet gratifying and purposeful.
 
 To those who have joined or supported me on this continuous journey: thank you.
 
